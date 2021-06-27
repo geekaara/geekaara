@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaradhanah Appalo Eleven (@geekaara)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Framework
 - 📫 How to reach me on aaradhanaha@gmail.com
 
 <!---
