@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaradhanah Appalo Eleven (@geekaara)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Framework
-- 📫 How to reach me on aaradhanaha@gmail.com
+- 👀 I’m interested in Software Development and Data Analysis
+- 🌱 I’m currently Studying my Masters in IT at RMIT University
+- 📫 Reach to me on aaradhanaha@gmail.com
 
 <!---
 geekaara/geekaara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
