@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaradhanah Appalo Eleven (@geekaara)
-- 👀 I’m interested in Software Development and Data Analysis
+- 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently Studying my Masters in IT at RMIT University
 - 📫 Reach to me on aaradhanaha@gmail.com
 
