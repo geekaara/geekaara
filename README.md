@@ -1,10 +1,11 @@
-# 👋 Hi, I’m Aaradhanah Appalo Eleven (@geekaara)
-- 👀 I’m interested in Software Development and AI
-- 🌱 I’m currently studying for my Master's in IT at RMIT University
-- 💼 I work as a developer specializing in React, Django, AWS, and CI/CD
-- 📫 Reach me at aaradhanaha@gmail.com
+<h1 align="center">Hello, I'm Aaradhanah Appalo Eleven (geekaara)</h1>
+<h3 align="center">I am an experienced Fullstack Developer looking for opportunities in Software Development.</h3>
 
-<!---
-geekaara/geekaara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=your-github-username)" alt="geekaara" /> </p>
+
+
+💻 Find my portfolio at [geekaara.com](https://www.geekaara.com)
+<br>
+
+---
