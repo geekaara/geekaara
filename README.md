@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Aaradhanah Appalo Eleven (geekaara)</h1>
-<h3 align="center">I am an experienced Fullstack Developer looking for opportunities in Software Development.</h3>
+<h3 align="center">Fullstack Developer | Passionate about building scalable apps with React, Node.js, and Go.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekaara&color=brightgreen" alt="geekaara" /> </p>
