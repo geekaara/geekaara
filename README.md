@@ -1,35 +1,28 @@
-<h1 align="center">Hello, I'm Aaradhanah Appalo Eleven (geekaara)</h1>
-<h3 align="center">Full-Stack Developer | Passionate about building scalable apps with React, Node.js, TypeScript, and Go.</h3>
+<h1 align="center">Hi there, I'm Aaradhanah (geekaara) 👋</h1>
 
+<!-- 2026 Trend: Animated Typing SVG Banner for dynamic headers -->
 <p align="center">
-  <em>Currently integrating AI/LLMs (RAG, Claude API) into modern workflows and preparing for AI-103 & DP-600/700 data certifications.</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Building+scalable+apps;Integrating+AI+with+RAG" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=geekaara&color=brightgreen" alt="geekaara" /> 
+### 👨‍💻 About Me
+- 🔭 **Currently Building:** Robust applications using React, Node.js, and TypeScript, alongside open-source CLI tools like **nuke-port** (Go).
+- 🧠 **Currently Exploring:** Advanced LLM integrations (specifically RAG and the Claude API).
+- 💼 **Portfolio:** Check out my work at [geekaara.com](https://geekaara.com)
+
+### 🛠️ Tech Stack & Tools
+<!-- 2026 Trend: Clean, uniform Shields.io badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
 </p>
 
-### 👨‍💻 What I'm Up To
-- 🔭 **Currently working on:** Building and maintaining robust full-stack applications and open-source CLI tools like **nuke-port** (written in Go).
-- 🌱 **Currently learning:** Advanced AI integrations, data engineering practices, and leveling up toward advanced engineering roles.
-- ⚡ **Tech Stack:** React, Node.js, TypeScript, Go, LLM APIs.
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geekaara&show_icons=true&hide=contribs,issues&title_color=2ecc71&icon_color=2ecc71&text_color=586069&bg_color=ffffff" alt="GitHub readme stats" />
-  <!-- Updated streak stats link from herokuapp to demolab -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=geekaara&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71" alt="GitHub readme streak stats" />
-</p>
-
-### 🐍 Contributions
-<picture>
-  <!-- Updated blob URLs to raw URLs for proper SVG rendering -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekaara/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekaara/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/geekaara/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br>
-<p align="center">
-  💻 Find my portfolio at <a href="https://geekaara.com" target="_blank" rel="noopener noreferrer">geekaara.com</a>
-</p>
+### 📈 GitHub Analytics
+<p align="left">
+  <!-- Using the Demolab server for Streaks -->
+  <img height="195em" src="https://streak-stats.demolab.com?user=geekaara&theme=tokyonight&hide_border=true&ring=2ecc71&fire=2ecc71" alt="GitHub Streak" />
